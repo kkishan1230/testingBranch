@@ -1,0 +1,2 @@
+Child1 file
+The content is now added
